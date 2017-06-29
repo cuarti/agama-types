@@ -33,8 +33,11 @@
   },
   "dependencies": {},
   "devDependencies": {
+    "@types/mocha": "^2.2.41",
     "@types/node": "^8.0.5",
     "awesome-typescript-loader": "^3.2.1",
+    "mocha": "^3.4.2",
+    "tslint": "^5.4.3",
     "typescript": "^2.3.4",
     "webpack": "^3.0.0"
   }
